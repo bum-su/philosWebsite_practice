@@ -38,6 +38,12 @@ img{
     font-weight: 900;
     font-family: 'Long Cang', 'mapleB';
 }
+.homepage{
+    font-family: 'Long Cang', 'mapleB';
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
 a{
     text-decoration: none;
 }
