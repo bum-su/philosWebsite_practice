@@ -1,51 +1,10 @@
 
-h3 {
-    text-align: center;
-    color: #F05297;
-    margin-top: 30px;
+*{
+    box-sizing: border-box;
     font-family: 'Long Cang', 'mapleB';
-    font-size: 30px;
-    }
-img{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    }
-.ruin{
-    font-size: 20px;
-    }
-.explanation{
-    background-color: #eee;
-    border-radius: 20px;
-    margin-bottom: 50px;
-    padding: 50px;
-    width: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Long Cang', 'mapleL';
-}
-.basic{
-    background-color: #eee;
-    border-radius: 20px;
-    margin-bottom: 50px;
-    padding: 50px;
-    width: 500px;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    color: #C89CFB ;
-    font-size: 50px;
-    font-weight: 900;
-    font-family: 'Long Cang', 'mapleB';
-}
-.homepage{
-    font-family: 'Long Cang', 'mapleB';
-    font-size: 50px;
-    text-align: center;
-    color: white;
-}
-a{
-    text-decoration: none;
 }
 @font-face{
     src: url("../font/Maplestory\ Bold.ttf");
@@ -55,7 +14,31 @@ a{
     src: url("../font/Maplestory\ Light.ttf");
     font-family: "mapleL";
 }
-.red { 
+a{
+    text-decoration: none;
+}
+h1 {
     color: #F05297;
+    margin-top: 30px;
+    font-size: 50px;
+    }
+
+.explanation{
+    background-color: #eee;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 50px;
+    width: 500px;
+}
+.text{
+    color: #868586;
+    font-size: 20px;
+}
+.homepage{
+    font-size: 50px;
+    color: white;
+}
+.ah{
+    font-size: 30px;
 }
 
