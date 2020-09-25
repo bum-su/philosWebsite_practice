@@ -1,11 +1,11 @@
 ## philosWebsite_practice
-- Only __Nietzsche__ and __Kant__ have been uploaded
-- font style css and img file 
-- style.css is CSS file
-
+> Only __Nietzsche__ and __Kant__ have been uploaded
+> font style css and img file 
+> style.css is CSS file
+***
 - homepage
-Nietzsche, Kant site available 
-
+> Nietzsche, Kant site available 
+***
 - __Nietzshe__
 1. wikie 
 2. career 
