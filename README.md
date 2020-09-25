@@ -4,12 +4,12 @@
 - style.css in CSS folder
 
 - homepage
-Nietzsche, Kant site available >> index.html
+Nietzsche, Kant site available 
 
 - Nietzshe
-1. wikie >> folder1/page1.html
-2. career >> folder2/page3.html
-3. Last man >> folder3/page2.html
+1. wikie 
+2. career 
+3. Last man 
 
 - kant
-1. wikie >> index2.html
+1. wikie
