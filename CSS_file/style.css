@@ -1,0 +1,55 @@
+
+h3 {
+    text-align: center;
+    color: #F05297;
+    margin-top: 30px;
+    font-family: 'Long Cang', 'mapleB';
+    font-size: 30px;
+    }
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+.ruin{
+    font-size: 20px;
+    }
+.explanation{
+    background-color: #eee;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 50px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Long Cang', 'mapleL';
+}
+.basic{
+    background-color: #eee;
+    border-radius: 20px;
+    margin-bottom: 50px;
+    padding: 50px;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: #C89CFB ;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: 'Long Cang', 'mapleB';
+}
+a{
+    text-decoration: none;
+}
+@font-face{
+    src: url("../font/Maplestory\ Bold.ttf");
+    font-family: "mapleB";
+}
+@font-face{
+    src: url("../font/Maplestory\ Light.ttf");
+    font-family: "mapleL";
+}
+.red { 
+    color: #F05297;
+}
+
