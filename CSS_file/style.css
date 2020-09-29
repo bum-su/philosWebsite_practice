@@ -12,9 +12,19 @@
     src: url("../font/Maplestory\ Light.ttf");
     font-family: "mapleL";
 }
-a{
+.menu{
+    position: fixed;
+    top: 0;
+    left: 50px;
+    padding-top: 50px;
+}
+a{  padding-left: 10px;
     text-decoration: none;
     color: black;
+    background-color: #83d1e9;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin-left: 10px;
 }
 a:hover{
     color: #7186F7;
