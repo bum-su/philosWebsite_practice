@@ -1,8 +1,8 @@
 ## philosWebsite_practice
-> Only __Nietzsche__ and __Kant__ have been uploaded 
+> __Nietzsche__,__Kant__ and __Hanshin__ of stroy 
 ***
 - homepage
-> Nietzsche, Kant site available 
+> Nietzsche, Kant and Hanshin site available 
 ***
 - __Nietzshe__
 1. wikie 
@@ -11,3 +11,6 @@
 
 - __kant__
 1. wikie
+
+- __Hanshin__
+1. Two Hanshin stories

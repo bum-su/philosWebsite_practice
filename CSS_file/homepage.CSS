@@ -18,10 +18,10 @@ h1 {
     font-size: 50px;
     }
 .homepage{
-    line-height: 600px;
+    line-height: 700px;
 }
 .ah{
-    width: 800px;
+    width: 700px;
     background-color: rgb(232, 131, 85, 0.3);
     border-radius: 10px;
     font-size: 50px;
@@ -31,7 +31,7 @@ h1 {
     vertical-align: middle;
 }
 .ah a{
-    font-size: 30px;
+    font-size: 15px;
     text-decoration: none;
     color: white;
 }
@@ -41,7 +41,7 @@ h1 {
 }
 .n{
     display: inline-block;
-    width: 300px;
+    width: 150px;
     margin-left: 50px;
 }
 .n img{

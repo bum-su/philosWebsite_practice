@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+@font-face{
+    src: url("../font/Maplestory\ Bold.ttf");
+    font-family: "mapleB";
+}
+@font-face{
+    src: url("../font/Maplestory\ Light.ttf");
+    font-family: "mapleL";
+}
+.base{
+    width: 1000px;
+    float: left;
+    background-color: white;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-family: "mapleL";
+}
+.pyomo{
+    width: 400px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    float: left;
+}
+.ziyok{
+    width: 400px;
+    float: left;
+}
+body{
+    background-image: url("../img/jj.jpg");
+    background-position: right top;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.big{
+    font-size: 20px;
+    font-family: "mapleB";
+}
+.himg{
+    float: right;
+    top: 20px;
+}
+.link{
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+}
+a:hover{
+    color: #7186F7;
+    text-shadow: 2px 2px 2px rgb(178, 189, 248);
+}
